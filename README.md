@@ -2,7 +2,6 @@
 
 A fun and interactive **Simon Says** game built using **HTML, CSS, and JavaScript**. Challenge your memory by following an increasingly long sequence of button flashes.
 
-![Screenshot](./screenshot.png) <!-- Replace with an actual screenshot path -->
 
 ---
 
